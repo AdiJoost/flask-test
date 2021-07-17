@@ -1,2 +1,2 @@
 def test_funktion ():
-	pass
+	return 1
